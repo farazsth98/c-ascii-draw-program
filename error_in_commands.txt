@@ -1,0 +1,5 @@
+FG 1
+BG 2
+MoVEa 23
+ROTATE -45
+DRAW 10

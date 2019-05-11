@@ -1,0 +1,4 @@
+FG 1
+BG 2
+MOVE ad
+DRAW 20

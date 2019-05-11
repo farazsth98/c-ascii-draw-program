@@ -1,0 +1,12 @@
+rotate -45
+move 30
+fg 8
+bg 3
+pattern #
+draw 10
+rotate 450
+draw 10
+rotate 90
+draw 10
+rotate 90
+draw 10

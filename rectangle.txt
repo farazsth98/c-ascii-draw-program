@@ -1,0 +1,11 @@
+rotate -45
+Move 30
+Pattern -
+ROTATE 45
+DRAW 10
+rotate -90
+draw 10
+rotate -90
+draw 10
+rotate -90
+draw 10
